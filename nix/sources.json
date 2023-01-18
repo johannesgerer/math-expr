@@ -1,0 +1,50 @@
+{
+    "chronos": {
+        "branch": "master",
+        "description": "Haskell time library focusing on performance ",
+        "homepage": null,
+        "owner": "johannesgerer",
+        "repo": "chronos",
+        "rev": "9dc993b1a9b6b5867a9c10b81a72fdb306c6387c",
+        "sha256": "0bj8jvz41abybvbdj9yh24bz7fscrpxi567ajp8cml73l2yphylc",
+        "type": "tarball",
+        "url": "https://github.com/johannesgerer/chronos/archive/9dc993b1a9b6b5867a9c10b81a72fdb306c6387c.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "interval": {
+        "branch": "main",
+        "description": "Haskell library for finite and infinite intervals of any ordered type",
+        "homepage": null,
+        "owner": "johannesgerer",
+        "repo": "interval",
+        "rev": "72d9fab84eb0a5b21efac53bc0bcf253a61fc47f",
+        "sha256": "1xi801f7x2hwx1pp7z2bk1j5fwls32b43pd8id965w6m9zlz75q8",
+        "type": "tarball",
+        "url": "https://github.com/johannesgerer/interval/archive/72d9fab84eb0a5b21efac53bc0bcf253a61fc47f.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "master",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOs",
+        "repo": "nixpkgs",
+        "rev": "2b54954fdb4a25c6f9cf80cfd36c43e4c4577c0b",
+        "sha256": "1sn4az6xc2ag23pnxhh8dbgxnk757d5d63spnv93bnls9k3d9vrg",
+        "type": "tarball",
+        "url": "https://github.com/NixOs/nixpkgs/archive/2b54954fdb4a25c6f9cf80cfd36c43e4c4577c0b.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "yahp": {
+        "branch": "main",
+        "description": "yet another Haskell prelude",
+        "homepage": null,
+        "owner": "johannesgerer",
+        "repo": "yahp",
+        "rev": "9597ee143a530f11e3bf60adf00dc92b4ad9d90b",
+        "sha256": "1y3q2w53p7r99fxspw3hjpp8zw7yhbbr9qfdzpx3z485m45899m0",
+        "type": "tarball",
+        "url": "https://github.com/johannesgerer/yahp/archive/9597ee143a530f11e3bf60adf00dc92b4ad9d90b.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
